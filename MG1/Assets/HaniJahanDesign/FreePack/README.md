@@ -62,6 +62,24 @@ A clean, modular set of stylized tiles designed for rapid prototyping of 3D plat
 
 ---
 
+
+## Devlog
+
+**Ryder Dufour**
+
+To me, Components, GameObjects, and Scenes feel like parts of a Lego set. 
+The Components are the little bricks, wheels, and special pieces—by themselves they don’t do much, 
+but they define what a creation can be. A GameObject is like the Lego model you build; 
+it only comes to life once you snap different pieces (Components) together. 
+The Scene is the big Lego world or play mat where all the models interact and create the full picture.  
+
+
+Thinking about Unity this way makes it click for me: Components shape the details, 
+GameObjects bring those details together into something complete, 
+and Scenes let all those creations exist and interact in one place—just like a full Lego world.  
+
+
+
 ## 🙋‍♀️ Creator
 
 **Hani Jahan Design**  
